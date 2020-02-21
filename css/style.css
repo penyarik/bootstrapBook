@@ -1,0 +1,122 @@
+button:focus{
+	outline:none;
+}
+body{
+	font-family: Tahoma;
+}
+
+header{
+	margin-top: 84px;
+	margin-bottom:100px;
+}
+
+
+ .header-img
+ {
+width: 300px;
+   margin-bottom:20px;
+ }
+.header-text{
+	padding-left: 40px;
+}
+.header-text__title{
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 25px;
+}
+.header-text__author{
+	font-size: 30px;
+font-weight: 400;
+margin-bottom: 42px;
+}
+.header-text__descr
+{
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+margin-bottom: 50px;
+max-width:530px;
+}
+.header-text__price{
+	font-size: 48px;
+font-weight: 400;
+line-height: 27px;
+margin-bottom: 57px;
+}
+.button{
+border:2px solid #f15921;
+padding:22px 43px ;	 
+font-size: 24px;
+font-weight: 700;
+line-height: 27px;
+background-color:#f15921 ;
+color:#ffffff;
+border-radius:5px;
+margin-right:41px;
+margin-bottom:20px;
+
+ }
+ .button-o
+ {  
+ 	 
+ 	 
+ 	background-color:transparent;
+ 	color:#f15921;
+ 	border:2px solid #f15921;
+ 	 
+ }
+
+ .features
+{
+	background-color: #f2f2f2;
+	border: 1px solid #ffffff;
+	padding-bottom: 99px;
+	padding-top:91px;
+	text-align: center;
+}
+.features__title{
+	font-size: 30px;
+font-weight: 700;
+text-align:center;
+margin-bottom:90px;
+line-height: 27px;
+    }
+ .features-block{
+   text-align: center;
+ }
+ .features__img
+ {
+ 	min-height:50px;
+ }
+ .features__text
+ {font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+max-width: 185px;
+  margin-left:auto;
+  margin-right:auto;
+ 	max-width:241px
+ 	min-width:200px;
+ 	margin-bottom:30px;
+ }
+
+
+ .buyers__title
+ {
+ 	font-size: 30px;
+font-weight: 700;
+ 
+line-height: 27px;
+ 	text-align: center;
+ 	margin-top:80px;
+ 	margin-bottom:80px;
+ }
+ .buyer__img
+{  text-align: center;
+	min-height: 263px;
+	   
+	 margin-bottom:15px;
+
+}
+ 
